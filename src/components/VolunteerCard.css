@@ -1,0 +1,10 @@
+
+.volunteerPostingBox{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding-top: 0.75%; 
+    text-align: center;
+    color: #8b0000
+}

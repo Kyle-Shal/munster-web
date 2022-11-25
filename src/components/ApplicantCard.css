@@ -1,0 +1,67 @@
+.applicant {
+    position: relative;
+    margin: auto;
+    width: 800px;
+    height: 184px;
+    left: 0px;
+    top: 250px;
+    margin-bottom: 30px;
+    padding: 0.5%;
+}
+
+.applicantBox{
+    position: absolute;
+    width: 486px;
+    height: 200px;
+    left: 170px;
+    top: 30px;
+  
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding-bottom: 0.75%;
+  
+    text-align: center;
+    color: #000000
+}
+  
+.jobBox {
+    position: absolute;
+    width: 334px;
+    height: 80px;
+    left: 80px;
+    top: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: #f1d9d5;
+    border-radius: 3px;
+}
+  
+.applicantPic {
+    position: absolute;
+    width: 240px;
+    height: 200px;
+    left: 670px;
+    top: 30px;
+    display: grid;
+    place-items: center;
+    padding-top: 0.65%;
+    padding-bottom: 0.10%;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.viewApplication {
+    position: absolute;
+    width: 160px;
+    height: 27px;
+    left: 170px;
+    top: 160px;
+  
+    background: #8B0000;
+    border: 1px solid #EFEFEF;
+    border-radius: 10px;
+  
+    color: #EFEFEF;
+}
+  

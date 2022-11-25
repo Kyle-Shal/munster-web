@@ -1,0 +1,167 @@
+.createJobSteps {
+    position: absolute;
+    width: 250px;
+    left: 10px;
+    top: 90px;
+    float: left;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.enterJobInfo {
+    position: absolute;
+    width: 925px;
+    left: 325px;
+    top: 90px;
+    float: right;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.employerDetails {
+    position: absolute;
+    width: 867px;
+    left: 325px;
+    margin: auto
+}
+
+.stepsHeader {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 1px;
+
+    text-align: left;
+
+    color: #000000;
+}
+
+.stepsSections {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+    color: #000000;
+}
+
+.stepsSubsections {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+    color: #000000;
+}
+
+.sectionHeader {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+    color: #000000;
+}
+
+.entryHeader {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 40px;
+
+    color: #000000;
+}
+
+.inputsCreateJob {
+    box-sizing: content-box;
+    width: 90%;
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+.inputsCreateJob:focus {
+    outline-color: #8b0000;
+}
+
+.buttonPosition {
+    position: relative;
+    margin-top: 50%;
+    width: 250px;
+    text-align: center;
+}
+
+.saveButton {
+    font-size: 16px;
+    color: #8b0000;
+    background-color: white;
+    margin: 2px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.postButton {
+    font-size: 16px;
+    color: white;
+    background-color: #8b0000;
+    margin: 2px;
+    border: 2px solid #8b0000;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.stepButtons {
+    align-self: center;
+    color: white;
+    margin-left: 33%;
+    margin-bottom: 0;
+}
+
+.steps {
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 16px;
+    background-color: #e3d1d1;
+    border: 2px solid #8b0000;
+}
+
+.steps:disabled {
+    background-color: white;
+    border: 2px solid grey;
+}
+
+.highlightSection {
+    background: yellow;
+}

@@ -1,0 +1,30 @@
+body {
+  height: 100%;
+  background: #f5e1dd;
+}
+
+.input {
+  position: absolute;
+  width: 480px;
+  height: 39px;
+  left: 40%;
+  top: 150px;
+  
+  background: #FFFFFF;
+  border: 1px solid #8B0000;
+  border-radius: 10px;
+}
+
+.search {
+  position: absolute;
+  width: 93px;
+  height: 27px;
+  left: 55%;
+  top: 223px;
+  
+  background: #8B0000;
+  border: 1px solid #EFEFEF;
+  border-radius: 10px;
+
+  color: #EFEFEF;
+}

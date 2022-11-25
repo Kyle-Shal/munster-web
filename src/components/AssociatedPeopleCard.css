@@ -1,0 +1,48 @@
+.asscProfileBox {
+    position: relative;
+    margin: 20px;
+    padding: 0.5%;
+    
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.asscConnect {
+    width: 95px;
+    height: 27px;
+  
+    background: #8B0000;
+    border: 1px solid #EFEFEF;
+    border-radius: 10px;
+  
+    color: #EFEFEF;
+}
+
+.asscConnectLink {
+    color: white;
+    text-decoration: none;
+}
+
+.asscName {
+    text-align: center;
+    margin-left: 96px;
+    margin-bottom: 0px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+}
+
+.asscJob {
+    text-align: center;
+    margin-left: 96px;
+    margin-bottom: 0px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+}
+
+.asscProfilePic {
+    width: 95px;
+    height: 95px;
+    float: left;
+}
